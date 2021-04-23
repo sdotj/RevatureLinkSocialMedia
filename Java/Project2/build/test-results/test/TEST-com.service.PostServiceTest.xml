@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.service.PostServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-04-19T18:45:55" hostname="Sams-MacBook-Pro.local" time="0.135">
+  <properties/>
+  <testcase name="selectAllLikedByUser()" classname="com.service.PostServiceTest" time="0.048"/>
+  <testcase name="selectById()" classname="com.service.PostServiceTest" time="0.008"/>
+  <testcase name="selectAllPosts()" classname="com.service.PostServiceTest" time="0.004"/>
+  <testcase name="selectAllByUser()" classname="com.service.PostServiceTest" time="0.004"/>
+  <testcase name="delete()" classname="com.service.PostServiceTest" time="0.048"/>
+  <testcase name="insert()" classname="com.service.PostServiceTest" time="0.013"/>
+  <testcase name="update()" classname="com.service.PostServiceTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] INFO org.springframework.test.context.web.WebTestContextBootstrapper - Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+[Test worker] INFO org.springframework.test.context.web.WebTestContextBootstrapper - Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@33a5ac98, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@129c9da6, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@309781bb, org.springframework.test.context.support.DependencyInjectionTestExecutionListener@583887cc, org.springframework.test.context.support.DirtiesContextTestExecutionListener@46e7313f, org.springframework.test.context.transaction.TransactionalTestExecutionListener@30e0f5e8, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener@3c762016, org.springframework.test.context.event.EventPublishingTestExecutionListener@206cd6b3]
+]]></system-err>
+</testsuite>
