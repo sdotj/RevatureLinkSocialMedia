@@ -37,7 +37,7 @@ Current Features
 
 ## Getting Started
 - First, you need to clone the project
-  - git clone https://github.com/rafael-malespin/RevatureProject2.git
+  - git clone https://github.com/sdotj/RevatureLinkSocialMedia.git
 - Second, you will need to setup the database
   1. Open DBeaver (install if not installed) and connect to a RDS database
   2. In the Database Manager, right click the connection and select "Create" then "Database"
