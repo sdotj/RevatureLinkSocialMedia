@@ -76,15 +76,4 @@
 
         <property name="sessionFactory" ref="sessionFactory"/>
     </bean>
-
-<!--    <bean id="AmazonS3" class="com.amazonaws.services.s3.AmazonS3"/>-->
-<!--    <bean id="multipartResolver"-->
-<!--          class="org.springframework.web.multipart.commons.CommonsMultipartResolver">-->
-<!--    </bean>-->
-
-<!--    <bean name="" class="com.config.S3Config">-->
-<!--        <property name="access.key" value="AKIA2WWB324KBEDOB7VR"/>-->
-<!--        <property name="secret.key" value="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"/>-->
-<!--        <property name="s3.region" value="us-east-2"/>-->
-<!--    </bean>-->
 </beans>
