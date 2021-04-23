@@ -93,7 +93,16 @@ Current Features
   8. Once in the Profile page, the user has two tabs "My Posts" and "Profile Setting"; the "My Posts" Tab will give the User the ability to view the Posts they had previously create while the "Profile Setting" will give the User a form that will allow them to update information about themselves along with allowing them to update their password. They submit changes by clicking on the "Update" button.
  <br /> 1. To update the password, the User will click on the switch labeled "User Password" and input their new password twice in the respective files along with their old password and then click the "Update" button. If the user reset their password view email, they would need to input the temporary password they received in an email.
   10. When in the "Chat Room" page, the user will be able to view the previous 25 messages sent by all users and by entering text in the input field at the bottom of the chat box(in the same box with an icon that looks like a paper airplane) and clicking on the paper airplane will send the message to anyone currently on the "Chat Room" page.
-    
+
+##Screenshots
+![login_page](https://user-images.githubusercontent.com/46952097/115908069-aac31400-a437-11eb-967c-f77e8f915c8e.png)
+![sign_up_page](https://user-images.githubusercontent.com/46952097/115908078-aeef3180-a437-11eb-8105-2b29873b580d.png)
+![home_page](https://user-images.githubusercontent.com/46952097/115908107-b7476c80-a437-11eb-99c4-4501c00cc402.png)
+![Text_Post](https://user-images.githubusercontent.com/46952097/115908115-ba425d00-a437-11eb-94b1-7156b68a66fb.png)
+![profile_page](https://user-images.githubusercontent.com/46952097/115908135-c4fcf200-a437-11eb-8413-7254084a99ba.png)
+![chat_room](https://user-images.githubusercontent.com/46952097/115908155-ca5a3c80-a437-11eb-9362-1c67c98c563e.png)
+![user_search](https://user-images.githubusercontent.com/46952097/115908172-ce865a00-a437-11eb-885f-40eaa162626b.png)
+  
 
 ## Contributors
  - Michael Loutfi
